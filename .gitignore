@@ -1,0 +1,44 @@
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Backups
+*.bak
+*.backup
+*.old
+
+# Configuration backups
+*.conf.bak
+*.conf.old
+
+# Cisco files
+*.pkt
+*.pka
+
+# System files
+.cache/
+.config/
